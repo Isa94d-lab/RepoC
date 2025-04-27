@@ -16,3 +16,21 @@ E:\projectsNet\demopoo\obj\Debug\net8.0\demopoo.sourcelink.json
 E:\projectsNet\demopoo\bin\Debug\net8.0\Figgle.dll
 E:\projectsNet\demopoo\obj\Debug\net8.0\demopoo.csproj.AssemblyReference.cache
 E:\projectsNet\demopoo\obj\Debug\net8.0\demopoo.csproj.Up2Date
+D:\1 Usuario\Desktop\EJERCICIOS PROGRAMACION\C#NEW\demopoo\obj\Debug\net8.0\demopoo.csproj.AssemblyReference.cache
+D:\1 Usuario\Desktop\EJERCICIOS PROGRAMACION\C#NEW\demopoo\obj\Debug\net8.0\demopoo.GeneratedMSBuildEditorConfig.editorconfig
+D:\1 Usuario\Desktop\EJERCICIOS PROGRAMACION\C#NEW\demopoo\obj\Debug\net8.0\demopoo.AssemblyInfoInputs.cache
+D:\1 Usuario\Desktop\EJERCICIOS PROGRAMACION\C#NEW\demopoo\obj\Debug\net8.0\demopoo.AssemblyInfo.cs
+D:\1 Usuario\Desktop\EJERCICIOS PROGRAMACION\C#NEW\demopoo\obj\Debug\net8.0\demopoo.csproj.CoreCompileInputs.cache
+D:\1 Usuario\Desktop\EJERCICIOS PROGRAMACION\C#NEW\demopoo\obj\Debug\net8.0\demopoo.sourcelink.json
+D:\1 Usuario\Desktop\EJERCICIOS PROGRAMACION\C#NEW\demopoo\obj\Debug\net8.0\demopoo.dll
+D:\1 Usuario\Desktop\EJERCICIOS PROGRAMACION\C#NEW\demopoo\obj\Debug\net8.0\refint\demopoo.dll
+D:\1 Usuario\Desktop\EJERCICIOS PROGRAMACION\C#NEW\demopoo\obj\Debug\net8.0\demopoo.pdb
+D:\1 Usuario\Desktop\EJERCICIOS PROGRAMACION\C#NEW\demopoo\bin\Debug\net8.0\demopoo.exe
+D:\1 Usuario\Desktop\EJERCICIOS PROGRAMACION\C#NEW\demopoo\bin\Debug\net8.0\demopoo.deps.json
+D:\1 Usuario\Desktop\EJERCICIOS PROGRAMACION\C#NEW\demopoo\bin\Debug\net8.0\demopoo.runtimeconfig.json
+D:\1 Usuario\Desktop\EJERCICIOS PROGRAMACION\C#NEW\demopoo\bin\Debug\net8.0\demopoo.dll
+D:\1 Usuario\Desktop\EJERCICIOS PROGRAMACION\C#NEW\demopoo\bin\Debug\net8.0\demopoo.pdb
+D:\1 Usuario\Desktop\EJERCICIOS PROGRAMACION\C#NEW\demopoo\bin\Debug\net8.0\Figgle.dll
+D:\1 Usuario\Desktop\EJERCICIOS PROGRAMACION\C#NEW\demopoo\obj\Debug\net8.0\demopoo.csproj.Up2Date
+D:\1 Usuario\Desktop\EJERCICIOS PROGRAMACION\C#NEW\demopoo\obj\Debug\net8.0\demopoo.genruntimeconfig.cache
+D:\1 Usuario\Desktop\EJERCICIOS PROGRAMACION\C#NEW\demopoo\obj\Debug\net8.0\ref\demopoo.dll

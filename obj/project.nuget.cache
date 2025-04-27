@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "VMTWM7iWdLc=",
+  "dgSpecHash": "04u3Ra+5pyo=",
   "success": true,
-  "projectFilePath": "E:\\projectsNet\\demopoo\\demopoo.csproj",
+  "projectFilePath": "D:\\1 Usuario\\Desktop\\EJERCICIOS PROGRAMACION\\C#NEW\\demopoo\\demopoo.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\developer\\.nuget\\packages\\figgle\\0.5.1\\figgle.0.5.1.nupkg.sha512"
+    "C:\\Users\\Usuario\\.nuget\\packages\\figgle\\0.5.1\\figgle.0.5.1.nupkg.sha512"
   ],
   "logs": []
 }
